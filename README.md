@@ -39,7 +39,7 @@ An interactive 8-puzzle game built with HTML, CSS, and JavaScript. The objective
 
 ### HTML
 
-The HTML file sets up the structure of the game with a container for the puzzle and buttons for shuffling and resetting the tiles.
+The HTML file sets up the game's structure with a container for the puzzle and buttons for shuffling and resetting the tiles.
 
 ### CSS
 
@@ -58,6 +58,7 @@ The JavaScript file contains the game logic:
 
 ## Screenshots
 
+![{FB7BA52B-A907-40B3-9B26-89B0B17511A0}](https://github.com/user-attachments/assets/54c0885a-d3d9-4d8d-8e2f-e355cfe015a1)
 
 
 ## Credits
